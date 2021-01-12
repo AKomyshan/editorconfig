@@ -1,8 +1,8 @@
 root = true
 [*]
 indent_style = space
-indent_size=2
-max_line_length=120
+indent_size = 2
+max_line_length = 120
 
 # ReSharper inspection severities
 resharper_suggest_var_or_type_simple_types_highlighting = error
