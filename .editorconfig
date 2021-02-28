@@ -7,4 +7,5 @@ max_line_length = 120
 csharp_style_var_for_built_in_types = false:error
 
 # ReSharper inspection severities
+resharper_suggest_var_or_type_simple_types_highlighting = error
 resharper_space_within_single_line_array_initializer_braces = true
